@@ -13,7 +13,7 @@ Desenvolvido durante a formação PHP da Rocketseat  *junto ao instrutor*.
 
 - 📌 Foi desenvolvido para mostrar os projetos para portfólio
 - 🧠 Compartilhar um pouco sobre o desenvolvedor
-- 🌐 Mostrar os links das redes como Gihub e LinkedIn
+- 🌐 Mostrar os links das redes como Github e LinkedIn
 
 ## 🚀 Tecnologias Utilizadas
 
